@@ -2,12 +2,6 @@
 
 Minimalist HAProxy Docker image using Alpine linux.
 
-# Table of Contents
-
-- [Limitations](#limitations)
-- [Running](#running)
-- [TODO](#todo)
-
 # Limitations
 
 This container will not run without a haproxy configuration file in /data/haproxy.cfg.
